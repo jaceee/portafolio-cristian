@@ -1,0 +1,32 @@
+html, body
+{
+    height: 100%;
+}
+
+body {
+  background-color: #333;
+  color: #bbb;
+}
+
+/* Menu lateral */
+.off-canvas {
+  background-color: transparent;
+}
+
+#foto-perfil {
+  border-radius: 50%;
+  margin-bottom: 35px;
+}
+
+/* Contenido */
+.off-canvas-content {
+  background-color: transparent;
+}
+
+/* Hero Screen */
+.hero-screen {
+  height: 80vh;
+  background-image: url('../img/galaxia.jpg');
+  background-position: top center;
+  background-size: cover;
+}
